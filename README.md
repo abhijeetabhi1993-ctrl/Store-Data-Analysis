@@ -136,4 +136,4 @@ Through this project, I learned how to:
   
 ## 👨‍💻 Author
  
-*Abhijeet* 📍 Power BI | Data Analytics | Dashboard Design 🔗 [LinkedIn](https://www.linkedin.com/public-profile/settings) 💻 [GitHub](https://github.com/abhijeetabhi1993-ctrl)
+*Abhijeet* 📍 Power BI | Data Analytics | Dashboard Design 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-goswami -552243207) 💻 [GitHub](https://github.com/abhijeetabhi1993-ctrl)
